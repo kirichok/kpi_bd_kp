@@ -1,0 +1,3 @@
+{
+  "PG_CONN_STR": "postgres://med_user:med_pass@localhost/med_db"
+}

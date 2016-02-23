@@ -1,0 +1,22 @@
+{
+  "name": "bd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "config": "^1.19.0",
+    "cookie-parser": "^1.3.5",
+    "ejs": "^2.3.4",
+    "debug": "^2.2.0",
+    "express": "^4.13.4",
+    "morgan": "^1.6.1",
+    "serve-favicon": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "./bin/www"
+  },
+  "author": "",
+  "license": "ISC"
+}
